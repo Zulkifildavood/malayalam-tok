@@ -24,11 +24,17 @@ We use Property-Based Testing to ensure morphological integrity. To run the suit
 
 ## 📜 Thesis Research
 
-This project is part of a Master's Thesis titled "Engineering Malayalam-Tok: A Hybrid Morpho-Statistical Tokenizer for High-Integrity NLP." It builds upon research conducted in RP-3 regarding human-perceived adequacy (MAS) in Dravidian language tokenization.
+This project is part of a Master's Thesis titled **"Engineering Malayalam-Tok: A Hybrid Morpho-Statistical Tokenizer for High-Integrity NLP."** It builds upon research conducted in RP-3 regarding human-perceived adequacy (MAS) in Dravidian language tokenization.
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please see  for details on our linguistic validation protocols.
+
+1. Fork the Project
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+4. Push to the Branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
 
 ## 📄 License
 
